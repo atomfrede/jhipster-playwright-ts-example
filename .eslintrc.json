@@ -8,7 +8,8 @@
     "plugin:@angular-eslint/recommended",
     "prettier",
     "prettier/@typescript-eslint",
-    "eslint-config-prettier"
+    "eslint-config-prettier",
+    "plugin:jest-playwright/recommended"
   ],
   "env": {
     "browser": true,
